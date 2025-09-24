@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 QWidget {
     background-color: #f4f4f4;
     font-family: Arial;
@@ -36,3 +37,43 @@ QListWidget {
     padding: 4px;
     background-color: #fff;
 }
+=======
+QWidget {
+    background-color: #f4f4f4;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+QLineEdit {
+    padding: 6px;
+    border: 2px solid #aaa;
+    border-radius: 6px;
+}
+
+QLineEdit:focus {
+    border: 2px solid #4CAF50;
+    background-color: #fff;
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 6px;
+    padding: 6px 12px;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
+
+QPushButton:pressed {
+    background-color: #367c39;
+}
+
+QListWidget {
+    border: 2px solid #aaa;
+    border-radius: 6px;
+    padding: 4px;
+    background-color: #fff;
+}
+>>>>>>> 0e545b815f8500b64d16b25e920bed44e2b29ddc
